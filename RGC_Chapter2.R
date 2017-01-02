@@ -6,6 +6,9 @@
 # Last modified: Sunday 1 January 2017
 #
 
+# Print system time
+Sys.time()
+
 # Packages
 library(ggplot2)
 
